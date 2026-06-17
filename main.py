@@ -4,6 +4,7 @@ from queue import Queue
 
 target = input("Enter the ip = ")
 
+
 def portscan(port):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
