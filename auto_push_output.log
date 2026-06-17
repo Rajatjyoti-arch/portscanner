@@ -232,3 +232,7 @@ To https://github.com/Rajatjyoti-arch/portscanner.git
  2 files changed, 6 insertions(+), 10 deletions(-)
 To https://github.com/Rajatjyoti-arch/portscanner.git
    11c7e0c..cc15d53  main -> main
+[main c158c86] Improved auto_push_output.log,main.py
+ 2 files changed, 5 insertions(+)
+To https://github.com/Rajatjyoti-arch/portscanner.git
+   cc15d53..c158c86  main -> main

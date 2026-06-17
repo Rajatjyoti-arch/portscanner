@@ -3,7 +3,7 @@ import threading
 from queue import Queue
 
 target = input("Enter the ip = ")
-
+queue = Queue()
 
 def portscan(port):
     try:
