@@ -10,4 +10,4 @@ def portscan(port):
     except:
         return False 
 
-print()
+print
