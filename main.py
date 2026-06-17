@@ -9,7 +9,6 @@ open_ports = []
 def portscan(port):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        # Add a timeout so it doesn't hang for minutes on closed/filtered ports
         sock.settimeout(1)
         sock.connect((target, port))
         return True

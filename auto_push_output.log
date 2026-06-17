@@ -412,3 +412,7 @@ To https://github.com/Rajatjyoti-arch/portscanner.git
  2 files changed, 5 insertions(+), 1 deletion(-)
 To https://github.com/Rajatjyoti-arch/portscanner.git
    e65b91a..e1a061d  main -> main
+[main bbca25b] Restructured auto_push_output.log,main.py
+ 2 files changed, 4 insertions(+), 1 deletion(-)
+To https://github.com/Rajatjyoti-arch/portscanner.git
+   e1a061d..bbca25b  main -> main
