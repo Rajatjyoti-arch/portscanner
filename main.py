@@ -35,7 +35,7 @@ fill_queue(port_list)
 
 thread_list = []
 
-for i in range(50): 
+for i in range(1000): 
     thread = threading.Thread(target=worker)
     thread_list.append(thread)
 
