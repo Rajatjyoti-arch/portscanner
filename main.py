@@ -14,4 +14,4 @@ def portscan(port):
     except:
         return False 
 
-def fill
+def fill_queue(from)
