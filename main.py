@@ -33,7 +33,7 @@ for i in range (10):
     thread = threading.Thread(target=worker)
     thread_list.append(thread)
 
-    for thread in thread_list:
+for thread in thread_list:
     thread.start()
     
 
