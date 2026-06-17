@@ -31,6 +31,10 @@ thread_list = []
 
 for i in range (10):
     thread = threading.Thread(target=worker)
-    thread_list
+    thread_list.append(thread)
+
+    
+    thread.start()
+    
 
     
