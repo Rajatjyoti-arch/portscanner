@@ -1,6 +1,6 @@
 import socket 
 
-tar
+target
     
 def portscan(port):
     try:
