@@ -16,7 +16,6 @@ def portscan(port):
     except:
         return False
     finally:
-        # Always close the socket
         sock.close()
 
 def fill_queue(port_list):
