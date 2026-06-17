@@ -10,4 +10,6 @@ def portscan(port):
     except:
         return False 
 
-for port 
+for port in range(1, 1024):
+    if portscan(port):
+        print(port)
