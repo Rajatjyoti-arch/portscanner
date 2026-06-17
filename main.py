@@ -36,7 +36,7 @@ for i in range (10):
 for thread in thread_list:
     thread.start()
 
-
+print()
     
 
     
