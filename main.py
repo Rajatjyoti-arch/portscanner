@@ -15,4 +15,5 @@ for port in range(1, 1024):
     if result:
         print("Port {} is open!".format(port))
     else:
+        print("Port {} is closed!".format(port))
          
