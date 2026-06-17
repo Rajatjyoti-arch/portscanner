@@ -4,3 +4,7 @@ Logging to auto_push.log
  2 files changed, 7 deletions(-)
 To https://github.com/Rajatjyoti-arch/portscanner.git
    328ad11..3d48d0b  main -> main
+[main 90ab8a2] Refined auto_push_output.log,main.py
+ 2 files changed, 5 insertions(+)
+To https://github.com/Rajatjyoti-arch/portscanner.git
+   3d48d0b..90ab8a2  main -> main
