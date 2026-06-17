@@ -42,7 +42,6 @@ for i in range(50):
 for thread in thread_list:
     thread.start()
 
-# Wait for all threads in the thread_list to finish before proceeding
 for thread in thread_list:
     thread.join()
 
