@@ -1,6 +1,6 @@
 import socket 
 
-target 
+target = in
     
 def portscan(port):
     try:
