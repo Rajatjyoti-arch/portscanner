@@ -14,4 +14,8 @@ def portscan(port):
     except:
         return False 
 
-def fill_queue(port_list)
+def fill_queue(port_list):
+    for port in port_list:
+        queue.put(port)
+
+def 
