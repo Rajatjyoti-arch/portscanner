@@ -13,5 +13,6 @@ def portscan(port):
 for port in range(1, 1024):
     result = portscan(port)
     if result:
-        print("Port {} is open!".format(port))" , port , " is open")
+        print("Port {} is open!".format(port))
+    else
          
