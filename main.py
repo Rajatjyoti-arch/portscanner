@@ -1,6 +1,6 @@
 import socket 
 
-target = input("Enter the ip ")
+target = input("Enter the ip = ")
     
 def portscan(port):
     try:
