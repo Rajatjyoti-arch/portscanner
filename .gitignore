@@ -55,3 +55,4 @@ venv.bak/
 # Auto-push script files
 auto_push.sh
 auto_push.log
+auto_push_output.log
