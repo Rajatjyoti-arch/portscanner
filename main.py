@@ -1,1 +1,2 @@
-impo
+import socket 
+    
