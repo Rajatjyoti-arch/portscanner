@@ -27,6 +27,3 @@ A fast, multithreaded TCP port scanner written in Python. This tool uses Python'
 To scan a different range of ports or change the thread count, you can edit `main.py` directly:
 - **Port Range**: Change the argument in `range(1, 1024)` to scan different port blocks.
 - **Thread Count**: Modify the number in `for i in range(1000):` to allocate more or fewer threads depending on your system's capabilities and network constraints.
-
-## Disclaimer
-This tool is intended for educational and authorized testing purposes only. Ensure you have explicit permission to scan the target network or device before running this script.
