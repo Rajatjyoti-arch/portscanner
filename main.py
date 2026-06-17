@@ -1,3 +1,3 @@
 import socket 
     
-def portscan
+def portscan()
