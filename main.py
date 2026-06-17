@@ -19,4 +19,4 @@ def fill_queue(port_list):
         queue.put(port)
 
 def worker():
-    
+    while
