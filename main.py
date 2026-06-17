@@ -11,5 +11,4 @@ def portscan(port):
         return False 
 
 for port in range(1, 1024):
-    if portscan(port):
-        print(port)
+    
