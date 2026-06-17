@@ -1,4 +1,5 @@
-import socket 
+import socket
+
 
 target = input("Enter the ip = ")
     
