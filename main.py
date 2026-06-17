@@ -13,3 +13,5 @@ def portscan(port):
         return True
     except:
         return False 
+
+def fill
