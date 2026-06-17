@@ -4,7 +4,7 @@ from queue import Queue
 
 target = input("Enter the ip = ")
 queue = Queue()
-open
+open_ports = []
 
 def portscan(port):
     try:
