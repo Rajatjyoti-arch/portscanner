@@ -30,6 +30,7 @@ fill_queue(port_list)
 thread_list = []
 
 for i in range (10):
+    thread = threading.Thread(target=worker)
     thread
 
     
