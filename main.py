@@ -1,4 +1,5 @@
 import socket 
     
 def portscan(port):
-    try
+    try:
+        sock = 
