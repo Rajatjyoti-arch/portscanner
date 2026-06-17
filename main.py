@@ -20,4 +20,8 @@ def fill_queue(port_list):
 
 def worker():
     while not queue.empty():
-        
+        port = queue.get()
+        if portscan(port):
+            print("Port {} is open!".format(port))
+            open_ports.append(port)
+    
