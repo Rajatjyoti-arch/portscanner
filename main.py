@@ -27,5 +27,5 @@ def worker():
 port_list = range(1, 1024)
 fill_queue(port_list)
 
-thread_
+thread_list = 
     
