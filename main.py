@@ -5,6 +5,11 @@ target = input("Enter the ip = ")
 def portscan(port):
     try:
         sock = socket.socket(socket.AF_INET, socket.SOCK_STREAM)
-        
         sock.connect((target, port))
-        return true
+        return True
+    except:
+        return False 
+
+for port in range(1, 1024):
+    if portscan(port):
+        print("Port " , port , " is open")
